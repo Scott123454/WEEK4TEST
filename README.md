@@ -1,7 +1,7 @@
 WEEK4TEST
 =========
 
-This code models a simple takeaway ordering system.  
+This code models a simple takeaway ordering system and was created using TDD.  
 
 The customer is able to select various items from a menu and then see a total cost of their order.  When the customer had made the 
 order the program sends a confirmation by text using the Twilio gem.  
